@@ -1,0 +1,32 @@
+h1 {
+  color: black (0, 26, 255, 0.103);
+  background-color: rgba(255, 30, 0, 0.801);
+  text-align: left;
+  font-family: Georgia;
+}
+p {
+  color: black;
+  background-color: rgba(255, 255, 255, 0.315);
+}
+h2 {
+  text-shadow: -px px black;
+  border: 5px solide black;
+  text-align: left;
+  border-bottom-color: rgb(0, 128, 128);
+  border-bottom-style: double;
+  background-color: rgba(255, 255, 0, 0.897);
+}
+p {
+  text-align: left;
+  line-height: px;
+  word-spacing: px;
+  text-indent: px;
+  image-orientation: flip;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+}
+body {
+  background-color: rgba(135, 158, 222, 0.363);
+  font-size: 16px;
+}
